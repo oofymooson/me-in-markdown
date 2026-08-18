@@ -11,6 +11,7 @@ Here are my goals for this year:
 2. Get all 5s this year for the four classes I am taking
 3. Understand computer science more
 4. Beat Minecraft in under 30 minutes
+
 I travelled to China this Summer. I was able to fence with international fencers and learn major points on how to be a better fencer throughout this summer.
 # Physical Activity
 I'm not the most active person, but I do lift a little. Unfortunately, I haven't gotten that much bigger, but since the beginning of summer, I can now curl 30 compared to 20.
