@@ -1,6 +1,6 @@
 # me-in-markdown
 
-<img width="1920" height="1080" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/6cab1d5e-aa5e-4dd4-8e6e-dd1a92fc59f5" />
+<\Untitled design.png>
 
 # Summer Songs
 [This is a link to my Spotify Playlist](https://open.spotify.com/playlist/0aZeczt6bZ7EMYcZkUQVzE?si=9rIUp8DFQKOvbCYzY9UCcA)
