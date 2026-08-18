@@ -1,6 +1,6 @@
 # me-in-markdown
 
-<\Untitled design.png>
+<![Me in images](image.png)>
 
 # Summer Songs
 [This is a link to my Spotify Playlist](https://open.spotify.com/playlist/0aZeczt6bZ7EMYcZkUQVzE?si=9rIUp8DFQKOvbCYzY9UCcA)
