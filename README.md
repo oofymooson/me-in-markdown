@@ -12,7 +12,6 @@ Here are my goals for this year:
 3. Understand computer science more
 4. Beat Minecraft in under 30 minutes
 
-I travelled to **China** this Summer. I was able to fence with international fencers and learn major points on how to be a better fencer throughout this summer.
+I travelled to **China** this Summer. I was able to fence with international fencers and learn major points on how to be a better fencer throughout this summer. I can't wait to learn computer science this year and fufill all my goals while still having fun.
 
-# End
-Sincerely, Matthew Byun
+From, Mason Bieler
