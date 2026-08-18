@@ -2,16 +2,15 @@
 
 ![Me in images](image.png)
 
-## My Summer Songs
-[This is a link to my Spotify Playlist](https://open.spotify.com/playlist/2OS8VGegyT0wdeNf2ZbXmT?si=4dBvJ1_wSt6lyfYjZiDIKA&utm_source=copy-link&pi=Y0VXZQMtRW6KT)
+[my Spotify Playlist](https://open.spotify.com/playlist/2OS8VGegyT0wdeNf2ZbXmT?si=4dBvJ1_wSt6lyfYjZiDIKA&utm_source=copy-link&pi=Y0VXZQMtRW6KT)
 
-# Letter to Aiello
-Dear Mr. Aiello,
-My name is Matthew Byun. I'm a 10th grader, and there isn't too much in particular that I would like to share about myself. My favorite book is probably either The Count of Monte Cristo or The Life of Pi; both books and even movies are really good. The Count of Monte Cristo was one of the longest books I read, and unfortunately, I may have to re-read it since I don't remember much. However, I do remember that despite the length of the book, it was super interesting and good enough for me to make the long pages go by seamlessly and quickly. The Life of Pi was also really good because it had me thinking for a long time, and I think the movie also did a great job representing the depth of the story. There haven't been many new skills I learned recently; I've just been sticking to studying and trying to figure out what I want to accomplish in high school that will help me get into a good college. Still, I am a violinist(though unfortunately not the greatest one). In terms of personal achievements, I guess I've grown about an inch since last year. One fun fact about me is that I'm extremely double-jointed, meaning I make my arm twist 360 degrees, I can crack my fingers by just squeezing my hand, I can bend my fingers far back enough to touch my wrist, I can crack my arm by closing it too on command, and I can pop my shoulder out of its socket and put it back in.
-# Goals For the Year:
-1. Find something worth doing in high school and build on it
-2. Get straight As and four 5s both semesters
-3. Figure out what major I want to take in college
+# Dear Mr. Aiello,
+Hello! My name is Mason Bieler and I am in your tenth grade Computer Science A class. I am looking forward to working with you and learning Computer science to it's fullest. Some things you may need to know about me is that I have a 504 plan that makes me get 50% more testing, homework, and classwork time. I love computers and I play games like minecraft and Valorant recently.
+Here are my goals for this year:
+1. Acheive straight As
+2. Get all 5s this year for the four classes I am taking
+3. Understand computer science more
+4. Beat Minecraft in under 30 minutes
 
 # Summer Vacation
 I did travel to Las Vegas this Summer. I didn't do too much, but I went with two of my cousins/family friends. There, we went to the Sphere, went swimming, and ate at a few expensive restaurants. We also got to see the fireworks show for America's 250th on the Vegas Strip.
